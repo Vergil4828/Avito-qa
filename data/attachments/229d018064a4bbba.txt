@@ -1,0 +1,3 @@
+
+────────────────────────────────────────────────────────────
+{"name": "avito_seller_service", "request_id": "121a6386-d4ab-486f-8daa-59418babb851", "url": "https://qa-internship.avito.com/api/1/item", "method": "POST", "json": {"sellerID": 927149, "name": "lPdOhkwX", "price": null, "statistics": {"likes": 61298, "viewCount": 54045, "contacts": 77888}}, "params": null, "data": null, "request_time": "2026-04-05 17:02:58.117", "event": "request", "level": "info", "timestamp": "17:02:58"}
