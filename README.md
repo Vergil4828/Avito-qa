@@ -44,7 +44,7 @@ pip install -r requirements.txt
 Для запуска тестов с генерацией Allure-отчета выполните в терминале:
 
 ```bash
-pytest -n 4 --alluredir=allure-results --alluredir-clean -v
+pytest -n 4 --alluredir=allure-results --clean-alluredir -v
 ```
 
 Если нужно сформировать отчет, то выполните в терминале:
