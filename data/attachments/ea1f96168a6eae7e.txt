@@ -1,0 +1,4 @@
+
+────────────────────────────────────────────────────────────
+{"name": "avito_seller_service", "request_id": "30911334-a8ab-4455-9559-4a9c75ac2a6d", "url": "https://qa-internship.avito.com/api/1/item/WbG", "method": "GET", "json": null, "params": null, "data": null, "request_time": "2026-04-05 16:59:27.093", "event": "request", "level": "info", "timestamp": "16:59:27"}
+{"name": "avito_seller_service", "request_id": "30911334-a8ab-4455-9559-4a9c75ac2a6d", "status_code": 400, "json": "{\n  \"result\": {\n    \"message\": \"ID \u0430\u0439\u0442\u0435\u043c\u0430 \u043d\u0435 UUID: WbG\",\n    \"messages\": {}\n  },\n  \"status\": \"400\"\n}", "text": "{\"result\":{\"message\":\"ID \u0430\u0439\u0442\u0435\u043c\u0430 \u043d\u0435 UUID: WbG\",\"messages\":{}},\"status\":\"400\"}\n", "duration": "188.713ms", "response_time": "2026-04-05 16:59:27.283", "event": "response", "level": "info", "timestamp": "16:59:27"}
