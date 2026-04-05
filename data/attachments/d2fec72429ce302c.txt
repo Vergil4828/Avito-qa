@@ -1,0 +1,8 @@
+
+────────────────────────────────────────────────────────────
+{"name": "avito_seller_service", "request_id": "36cad431-2082-46b9-ba2b-da8aa7e4540b", "url": "https://qa-internship.avito.com/api/1/item", "method": "POST", "json": {"sellerID": 975633, "name": "6fE3Ae", "price": 73480, "statistics": {"likes": 15811, "viewCount": 68915, "contacts": -806}}, "params": null, "data": null, "request_time": "2026-04-05 17:06:02.653", "event": "request", "level": "info", "timestamp": "17:06:02"}
+{"name": "avito_seller_service", "request_id": "36cad431-2082-46b9-ba2b-da8aa7e4540b", "status_code": 200, "json": "{\n  \"status\": \"\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u043b\u0438 \u043e\u0431\u044a\u044f\u0432\u043b\u0435\u043d\u0438\u0435 - 2f4f8af0-e484-4817-ba4d-fb91ba340f4c\"\n}", "text": "{\"status\":\"\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u043b\u0438 \u043e\u0431\u044a\u044f\u0432\u043b\u0435\u043d\u0438\u0435 - 2f4f8af0-e484-4817-ba4d-fb91ba340f4c\"}\n", "duration": "156.686ms", "response_time": "2026-04-05 17:06:02.810", "event": "response", "level": "info", "timestamp": "17:06:02"}
+
+────────────────────────────────────────────────────────────
+{"name": "avito_seller_service", "request_id": "deede428-e2f2-4f35-b762-657657097931", "url": "https://qa-internship.avito.com/api/2/item/2f4f8af0-e484-4817-ba4d-fb91ba340f4c", "method": "DELETE", "json": null, "params": null, "data": null, "request_time": "2026-04-05 17:06:02.811", "event": "request", "level": "info", "timestamp": "17:06:02"}
+{"name": "avito_seller_service", "request_id": "deede428-e2f2-4f35-b762-657657097931", "status_code": 200, "json": "{}", "text": "", "duration": "155.746ms", "response_time": "2026-04-05 17:06:02.967", "event": "response", "level": "info", "timestamp": "17:06:02"}
